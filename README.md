@@ -4,6 +4,8 @@ This code was used to extract frames from h264 video obtained for Bacterial Resi
 
 ## Directions
 
+The python files are under the folder *src*
+
 Change the following to collect every *frame_interval* frame (i.e., 1 would mean storing every possible frame)
 ```
 frame_interval = 1
